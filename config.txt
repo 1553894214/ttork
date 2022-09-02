@@ -1,0 +1,36 @@
+{
+"app_id": "wxd90532c34cffacc7",
+"app_secret": "514ec68d263809f33827c13e6c3b432e",
+
+"template_id": "PRN_CsWZW75poa-PCHvq4ffifH8cDOvHXd5dQBu6_do",
+"user_id": ["oJtFB6bqUjWY_RDOxSablig0tT64"],
+#"user_id": ["oJtFB6bqUjWY_RDOxSablig0tT64" , "oJtFB6ZElXKCB12G29IDCY9vdl4o"],
+
+"C_ShengFen": "辽宁",
+"C_ChengShi": "本溪",
+"S_XingZuo": "处女座",
+
+"S_Love": "2022-08-04",
+"birthday1": "1996-07-20",
+"birthday2": "1996-06-27",
+
+"C_String01": " 所有人都是灰色的唯有你闪着淡淡的蓝.",
+"C_String02": "花不贵.下次见面我送你.",
+"C_String03": "想我了就抱抱空气.我的爱无处不在.",
+
+
+# 天气预报
+"API_TQYB":"edbce1a784f00d14abbf0d56d97f2581",
+# 星座运势
+"API_XZYS":"edbce1a784f00d14abbf0d56d97f2581",
+
+# 早安心语
+"API_ZAXY":"edbce1a784f00d14abbf0d56d97f2581",
+# 晚安心语
+"API_WAXY":"edbce1a784f00d14abbf0d56d97f2581",
+
+# 舔狗日记
+"API_TGRJ":"edbce1a784f00d14abbf0d56d97f2581",
+# 土味情话
+"API_TWQH":"edbce1a784f00d14abbf0d56d97f2581"
+}
